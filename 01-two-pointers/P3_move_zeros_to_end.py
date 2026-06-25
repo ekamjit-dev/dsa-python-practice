@@ -25,6 +25,6 @@ else:
         l[slow] = 0
         slow += 1
 
-    print(f"List: {l}")        
+    print(f"List: {l}")  
 
-
+        

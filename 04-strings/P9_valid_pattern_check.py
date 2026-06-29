@@ -28,22 +28,5 @@ def pattern_check(s):
     return False
 
 
-print(pattern_check("([}{}])"))
-                   
-
-
-            
-
-
-
-
-
-
-
-
-
-
-
-
-   
-
+print(pattern_check("([{}])"))
+                

@@ -1,5 +1,4 @@
 def pattern_check(s):
-
     stack = []
 
     for ch in s:
@@ -27,23 +26,5 @@ def pattern_check(s):
 
     return False
 
-
-print(pattern_check("([}{}])"))
-                   
-
-
-            
-
-
-
-
-
-
-
-
-
-
-
-
-   
-
+print(pattern_check("([{}])"))
+                
